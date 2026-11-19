@@ -60,12 +60,12 @@ public class Main {
 
     // 3. morningGreeting
     public static String morningGreeting(String name_parameter) {
-        return ("Good morning, " + name_parameter + "!");
+        return ("早上好, " + name_parameter + "!");
     }
 
     // 4. afternoonGreeting
     public static String afternoonGreeting(String name_parameter) {
-        return ("Good afternoon, " + name_parameter + "!");
+        return ("下午好, " + name_parameter + "!");
     }
 
     // 5. triple
